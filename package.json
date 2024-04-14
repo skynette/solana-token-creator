@@ -9,9 +9,27 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@formspree/react": "^2.5.1",
+    "@heroicons/react": "^1.0.5",
+    "@metaplex-foundation/mpl-token-metadata": "^2.3.3",
+    "@solana/spl-token": "^0.3.5",
+    "@solana/wallet-adapter-base": "^0.9.3",
+    "@solana/wallet-adapter-react": "^0.15.3",
+    "@solana/wallet-adapter-react-ui": "^0.9.5",
+    "@solana/wallet-adapter-wallets": "^0.18.2",
+    "@solana/web3.js": "^1.31.0",
+    "@tailwindcss/typography": "^0.5.0",
+    "axios": "^1.6.5",
+    "daisyui": "^1.24.3",
+    "immer": "^9.0.12",
     "react": "^18",
+    "react-icons": "^4.11.0",
+    "react-spinners": "^0.13.5",
     "react-dom": "^18",
-    "next": "14.1.4"
+    "next": "14.1.4",
+    "next-compose-plugins": "^2.2.1",
+    "next-transpile-modules": "^9.0.0",
+    "zustand": "^3.6.9"
   },
   "devDependencies": {
     "typescript": "^5",
